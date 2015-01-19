@@ -1,0 +1,15 @@
+subset a b - compares every element in the set b (a predicate made up from the for_all function) to all the elements in set a
+
+proper_subset a b - find if a and b are subsets of each other and then make sure it is not the same as the original set
+
+equal_sets a b - just and the same subset clause together except feed in a b for one and b a for the other. Check if equal
+
+set_diff a b - must be recursive, if its the empty set then return the empty set. For the head, check if it is in b set. If it is cut off the head and recurse with the rest of it, otherwise you want to check the same head with the rest of the set which is the list with the head cut off. 
+
+computed_fixed_point eq f x - if f(x) is x then youre done, otherwise just recursively apply the function
+
+computed_periodic_point eq f p x - uses a function called periodic_check f p x that checks if p is 0 yet. If it is, it will just return x and if it isn't it will subtract one and recursively call itself while subtracting 1 from p until it hits 0. This function is used in the computed_periodic_point eq f p x 
+
+filter_blind_alleys g - use computed_fixed_points to recursively check and see if the input will become the input again effectively showing it is not a blind alley rule. Then add that rule to a list. Then you can reorganize the list using the list_in_order function. list_of_rh_symbol checks to see if the symbol matches with the right hand side of a grammar rule - must be called recursively to check all the rules. 
+
+Wrote multiple test cases for the first few set of functions. Wrote 1 for the complicated set of functions like computed_fixed_point eq f p x and filter_blind_alleys g. 

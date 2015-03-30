@@ -1,0 +1,1 @@
+fd_set_vector_max(255), kenken_testcase(N,C), kenken(N,C,T).

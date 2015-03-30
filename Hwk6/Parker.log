@@ -1,0 +1,33 @@
+DEBUG:root:Server Parker has stopped. Port 12088 is free.
+DEBUG:root:Server Parker has stopped. Port 12088 is free.
+DEBUG:root:Server Parker has stopped. Port 12103 is free.
+DEBUG:root:Server Parker has stopped. Port 12103 is free.
+DEBUG:root:Server Parker has stopped. Port 12070 is free.
+DEBUG:root:Server Parker has stopped. Port 12070 is free.
+DEBUG:root:Server Parker has stopped. Port 12153 is free.
+DEBUG:root:Parker: New connection! Number of clients: 1
+DEBUG:root:Parker: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.39
+DEBUG:root:Parker: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.39
+DEBUG:root:Parker: New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Parker: Flooding to neighbour (Alford)
+DEBUG:root:Parker: Flooding to neighbour (Bolden)
+DEBUG:root:Parker: Flooding to neighbour (Hamilton)
+DEBUG:root:Parker: Connection closed! Number of clients: 0
+DEBUG:root:Parker: New connection! Number of clients: 1
+DEBUG:root:Parker: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Alford 1400794645.39
+DEBUG:root:Parker: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Alford 1400794645.39
+DEBUG:root:Parker: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Parker: Connection closed! Number of clients: 0
+DEBUG:root:Parker: New connection! Number of clients: 1
+DEBUG:root:Parker: New connection! Number of clients: 2
+DEBUG:root:Parker: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Hamilton 1400794645.39
+DEBUG:root:Parker: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Hamilton 1400794645.39
+DEBUG:root:Parker: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Parker: Connection closed! Number of clients: 1
+DEBUG:root:Parker: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Bolden 1400794645.39
+DEBUG:root:Parker: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Bolden 1400794645.39
+DEBUG:root:Parker: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Parker: Connection closed! Number of clients: 0
+DEBUG:root:Parker: New connection! Number of clients: 1
+DEBUG:root:Parker: ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:Parker: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu

@@ -1,0 +1,8 @@
+This homework was hard in the sense that sense of backtracking and having to deal with continuation. The most important part was concatenating the suffix with the pattern that actually matches and if it does not then you must back track. 
+The backtracking was done with (lambda () (backtrack (match-junk (- k 1) (cdr frag))))) and then using cons to link the matching fragment with the backtracking
+The state of the "recursion" was maintained by the variable k and call/cc was used to rewind to the state in which it was invoked.
+
+match-junk checks to see if there is a match and if there is it uses the shorter pattern matching. 
+match-* matchs the next pattern of letters starting from the empty
+match-symbol checks to see if the whole pattern matches the fragment
+make-matcher does most of the heavy work including checking to see if a match is made by 'or' and checking multiple list choices when backtracking to see which is the best match

@@ -1,0 +1,21 @@
+DEBUG:root:Server Bolden has stopped. Port 12086 is free.
+DEBUG:root:Server Bolden has stopped. Port 12086 is free.
+DEBUG:root:Server Bolden has stopped. Port 12101 is free.
+DEBUG:root:Server Bolden has stopped. Port 12101 is free.
+DEBUG:root:Server Bolden has stopped. Port 12068 is free.
+DEBUG:root:Server Bolden has stopped. Port 12068 is free.
+DEBUG:root:Server Bolden has stopped. Port 12151 is free.
+DEBUG:root:Bolden: New connection! Number of clients: 1
+DEBUG:root:Bolden: New connection! Number of clients: 2
+DEBUG:root:Bolden: New connection! Number of clients: 3
+DEBUG:root:Bolden: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Powell 1400794645.39
+DEBUG:root:Bolden: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Powell 1400794645.39
+DEBUG:root:Bolden: New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Bolden: Flooding to neighbour (Parker)
+DEBUG:root:Bolden: Flooding to neighbour (Powell)
+DEBUG:root:Bolden: Connection closed! Number of clients: 2
+DEBUG:root:Bolden: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Parker 1400794645.39
+DEBUG:root:Bolden: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Parker 1400794645.39
+DEBUG:root:Bolden: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Bolden: Connection closed! Number of clients: 1
+DEBUG:root:Bolden: Connection closed! Number of clients: 0

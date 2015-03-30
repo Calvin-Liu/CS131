@@ -1,0 +1,24 @@
+DEBUG:root:Server Powell has stopped. Port 12089 is free.
+DEBUG:root:Server Powell has stopped. Port 12089 is free.
+DEBUG:root:Server Powell has stopped. Port 12104 is free.
+DEBUG:root:Server Powell has stopped. Port 12104 is free.
+DEBUG:root:Server Powell has stopped. Port 12071 is free.
+DEBUG:root:Server Powell has stopped. Port 12071 is free.
+DEBUG:root:Server Powell has stopped. Port 12154 is free.
+DEBUG:root:Powell: New connection! Number of clients: 1
+DEBUG:root:Powell: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.39
+DEBUG:root:Powell: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.39
+DEBUG:root:Powell: New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Powell: Flooding to neighbour (Alford)
+DEBUG:root:Powell: Flooding to neighbour (Bolden)
+DEBUG:root:Powell: Connection closed! Number of clients: 0
+DEBUG:root:Powell: New connection! Number of clients: 1
+DEBUG:root:Powell: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Alford 1400794645.39
+DEBUG:root:Powell: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Alford 1400794645.39
+DEBUG:root:Powell: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Powell: Connection closed! Number of clients: 0
+DEBUG:root:Powell: New connection! Number of clients: 1
+DEBUG:root:Powell: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Bolden 1400794645.39
+DEBUG:root:Powell: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Bolden 1400794645.39
+DEBUG:root:Powell: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Powell: Connection closed! Number of clients: 0

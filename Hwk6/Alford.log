@@ -1,0 +1,34 @@
+DEBUG:root:Server Alford has stopped. Port 12085 is free.
+DEBUG:root:Server Alford has stopped. Port 12085 is free.
+DEBUG:root:Server Alford has stopped. Port 12100 is free.
+DEBUG:root:Server Alford has stopped. Port 12100 is free.
+DEBUG:root:Server Alford has stopped. Port 12067 is free.
+DEBUG:root:Server Alford has stopped. Port 12067 is free.
+DEBUG:root:Server Alford has stopped. Port 12150 is free.
+DEBUG:root:Alford: New connection! Number of clients: 1
+DEBUG:root:Alford: ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:Alford: New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Alford: Flooding to neighbour (Parker)
+DEBUG:root:Alford: Flooding to neighbour (Powell)
+DEBUG:root:Alford: New connection! Number of clients: 2
+DEBUG:root:Alford: New connection! Number of clients: 3
+DEBUG:root:Alford: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Powell 1400794645.39
+DEBUG:root:Alford: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Powell 1400794645.39
+DEBUG:root:Alford: Existing Client Updated [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Alford: Flooding to neighbour (Parker)
+DEBUG:root:Alford: Flooding to neighbour (Powell)
+DEBUG:root:Alford: Connection closed! Number of clients: 2
+DEBUG:root:Alford: ReceivedAT Alford 24871017.2542 kiwi.cs.ucla.edu Parker 1400794645.39
+DEBUG:root:Alford: Flood Received:AT Alford 24871017.2542 kiwi.cs.ucla.edu Parker 1400794645.39
+DEBUG:root:Alford: Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:Alford: Connection closed! Number of clients: 1
+DEBUG:root:Alford: Receivedÿôÿýÿôÿýÿôÿýÿôÿýÿôÿýÿôÿý;
+DEBUG:root:Alford: Bad Request.
+DEBUG:root:Alford: Received
+DEBUG:root:Alford: Connection closed! Number of clients: 0
+DEBUG:root:Alford: New connection! Number of clients: 1
+DEBUG:root:Alford: ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:Alford: Connection closed! Number of clients: 0
+DEBUG:root:Alford: New connection! Number of clients: 1
+DEBUG:root:Alford: ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:Alford: Connection closed! Number of clients: 0
